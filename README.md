@@ -1,6 +1,8 @@
 # MPG of Manufacturers in 2008
 by Daniel Saraf
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">How im dodging all the negative shit this week <a href="https://t.co/EuQjE8kecB">pic.twitter.com/EuQjE8kecB</a></p>&mdash; YUNG 2️⃣.0️⃣ MAY7TH (@Yung2Official) <a href="https://twitter.com/Yung2Official/status/1386672048622157826?ref_src=twsrc%5Etfw">April 26, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 This dataset describes the Miles Per Gallon(MPG) of Manufacturers in the city and on the highway from 2008. The dataset was downloaded form [R datasets](https://vincentarelbundock.github.io/Rdatasets/articles/data.html)
 
 <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
